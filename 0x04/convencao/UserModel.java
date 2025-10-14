@@ -1,4 +1,6 @@
-class UsersModels {
+import java.util.List;
+
+class UsersModel {
 
     private int idUser;
     
