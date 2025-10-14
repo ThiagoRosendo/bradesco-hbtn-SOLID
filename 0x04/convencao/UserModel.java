@@ -1,6 +1,6 @@
 import java.util.List;
 
-class UsersModel {
+class UserModel {
 
     private int idUser;
     
